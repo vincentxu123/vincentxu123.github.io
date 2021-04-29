@@ -18,3 +18,4 @@
     }else{
         echo '<label class="error">Something went wrong! please try again.</label>';
     }
+?>

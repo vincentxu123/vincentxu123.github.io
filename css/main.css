@@ -839,6 +839,7 @@ textarea, label {
   float: left;
   position: relative;
   width: 20%;
+  margin-right:35px; /* Delete this for 5 hexagons! */
   z-index: 1;
 }
 .service-hex svg {

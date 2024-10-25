@@ -1,7 +1,7 @@
 .dark {
   background-color: #0c0f15; }
   .dark .page-home .overlay {
-    background-color: rgba(54, 47, 45, 0.60); }
+    background-color: rgb(0 0 0 / 60%); }
   .dark .page-title h2 {
     color: #ffffff; }
   .dark .page-title .title-bg {

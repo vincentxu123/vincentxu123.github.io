@@ -272,9 +272,14 @@ textarea, label {
   z-index: 100;
 }
 
-.page-title {
-  margin-bottom: 75px;
+.page-heading {
+  /* margin-bottom: 40%;
+  margin-right: 40% */
+  position: absolute;
+  top:15%;
+  left:10%;
 }
+
 .page-title img {
   margin-bottom: 20px;
 }
